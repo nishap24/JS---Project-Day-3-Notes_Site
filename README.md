@@ -13,7 +13,7 @@ Nisha Kanasu💛 - Notes Site
 
 Live Demo:
 
- 
+ https://nishap24.github.io/JS---Project-Day-3-Notes_Site/
     
 ## Getting Started
 
