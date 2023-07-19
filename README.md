@@ -38,6 +38,9 @@ To explore or modify the code, follow these steps:
 
 3. Local Storage: Your notes are securely stored in your browser's local storage. Enjoy the convenience of saving and retrieving your notes even when you close the site or refresh the page. No need to worry about losing your valuable information.
 
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d7d6aaad-e9ec-48f9-acd5-0f8a717fab94/deploy-status)](https://app.netlify.com/sites/kanasu-notes-site/deploys)
 
 ## Contributing
 
